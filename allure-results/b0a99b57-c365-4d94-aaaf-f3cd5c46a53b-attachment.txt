@@ -1,0 +1,19 @@
+
+################################################################################################################################################
+Starting Execution:	[2 out of 3] test cases in the current suite
+Test Method:		[tests.gui.NewTest.test]
+################################################################################################################################################
+[ReportManager] File Action [createFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20210330-102905", Target File: "\1617092962948_test.gif"]. @30-03-2021 10:29:22.0996 AM
+[ReportManager] Element Action [click] successfully performed. With the following test data [???? ??????]. @30-03-2021 10:29:25.0421 AM
+[ReportManager] Element Action [click] successfully performed. With the following test data [A]. @30-03-2021 10:29:27.0175 AM
+[ReportManager] Element Action [click] successfully performed. With the following test data [A]. @30-03-2021 10:29:28.0881 AM
+[ReportManager] Element Action [click] successfully performed. With the following test data [A]. @30-03-2021 10:29:30.0701 AM
+[ReportManager] Element Action [click] successfully performed. With the following test data [A]. @30-03-2021 10:29:32.0424 AM
+[ReportManager] Element Action [click] successfully performed. With the following test data [A]. @30-03-2021 10:29:34.0150 AM
+[ReportManager] Element Action [click] successfully performed. With the following test data [A]. @30-03-2021 10:29:35.0904 AM
+[ReportManager] Element Action [click] successfully performed. With the following test data [A]. @30-03-2021 10:29:37.0608 AM
+[ReportManager] Element Action [click] successfully performed. With the following test data [A]. @30-03-2021 10:29:39.0383 AM
+[ReportManager] Element Action [click] successfully performed. With the following test data [A]. @30-03-2021 10:29:41.0089 AM
+[ReportManager] Element Action [click] successfully performed. With the following test data [A]. @30-03-2021 10:29:42.0906 AM
+[ReportManager] Successfully created attachment [Video Recording - test] @30-03-2021 10:29:48.0104 AM
+[ReportManager] Successfully created attachment [Animated Gif - test] @30-03-2021 10:29:48.0112 AM

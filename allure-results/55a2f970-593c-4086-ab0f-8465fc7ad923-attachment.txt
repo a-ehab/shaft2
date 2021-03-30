@@ -1,0 +1,65 @@
+################################################################################################################################################
+Detected SHAFT Engine Version: [SHAFT Engine v4.3]
+################################################################################################################################################
+[ReportManager] File Action [getAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "target/downloadedFiles/"]. @30-03-2021 10:29:05.0250 AM
+[ReportManager] Attempting to run locally on: [Windows-64], [GoogleChrome]. @30-03-2021 10:29:05.0303 AM
+[ReportManager] Identifying OS/Browser combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @30-03-2021 10:29:05.0306 AM
+[ReportManager] Successfully Opened Google Chrome. @30-03-2021 10:29:07.0474 AM
+[ReportManager] Target URL: [https://playwin.live/ar] @30-03-2021 10:29:07.0485 AM
+[ReportManager] Initial URL: [data:,] @30-03-2021 10:29:07.0914 AM
+[ReportManager] File Action [createFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20210330-102905", Target File: "\1617092951041_beforeMethod.gif"]. @30-03-2021 10:29:11.0179 AM
+[ReportManager] Browser Action [navigateToURL] successfully performed. With the following test data [https://playwin.live/ar]. @30-03-2021 10:29:11.0920 AM
+[ReportManager] Successfully created attachment [Video Recording - beforeMethod] @30-03-2021 10:29:13.0148 AM
+[ReportManager] Successfully created attachment [Animated Gif - beforeMethod] @30-03-2021 10:29:13.0149 AM
+
+################################################################################################################################################
+Starting Execution:	[1 out of 3] test cases in the current suite
+Test Method:		[tests.gui.NewTest.login1st]
+################################################################################################################################################
+[ReportManager] Element Action [type] successfully performed. With the following test data [t@g.com]. @30-03-2021 10:29:13.0399 AM
+[ReportManager] Element Action [type] successfully performed. With the following test data [test123123]. @30-03-2021 10:29:13.0579 AM
+[ReportManager] File Action [createFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20210330-102905", Target File: "\1617092954215_login1st.gif"]. @30-03-2021 10:29:14.0252 AM
+[ReportManager] Element Action [click] successfully performed. With the following test data [????? ??????]. @30-03-2021 10:29:17.0518 AM
+[ReportManager] Element Action [click] successfully performed. With the following test data [×]. @30-03-2021 10:29:19.0884 AM
+[ReportManager] Successfully created attachment [Video Recording - login1st] @30-03-2021 10:29:22.0124 AM
+[ReportManager] Successfully created attachment [Animated Gif - login1st] @30-03-2021 10:29:22.0127 AM
+
+################################################################################################################################################
+Starting Execution:	[2 out of 3] test cases in the current suite
+Test Method:		[tests.gui.NewTest.test]
+################################################################################################################################################
+[ReportManager] File Action [createFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20210330-102905", Target File: "\1617092962948_test.gif"]. @30-03-2021 10:29:22.0996 AM
+[ReportManager] Element Action [click] successfully performed. With the following test data [???? ??????]. @30-03-2021 10:29:25.0421 AM
+[ReportManager] Element Action [click] successfully performed. With the following test data [A]. @30-03-2021 10:29:27.0175 AM
+[ReportManager] Element Action [click] successfully performed. With the following test data [A]. @30-03-2021 10:29:28.0881 AM
+[ReportManager] Element Action [click] successfully performed. With the following test data [A]. @30-03-2021 10:29:30.0701 AM
+[ReportManager] Element Action [click] successfully performed. With the following test data [A]. @30-03-2021 10:29:32.0424 AM
+[ReportManager] Element Action [click] successfully performed. With the following test data [A]. @30-03-2021 10:29:34.0150 AM
+[ReportManager] Element Action [click] successfully performed. With the following test data [A]. @30-03-2021 10:29:35.0904 AM
+[ReportManager] Element Action [click] successfully performed. With the following test data [A]. @30-03-2021 10:29:37.0608 AM
+[ReportManager] Element Action [click] successfully performed. With the following test data [A]. @30-03-2021 10:29:39.0383 AM
+[ReportManager] Element Action [click] successfully performed. With the following test data [A]. @30-03-2021 10:29:41.0089 AM
+[ReportManager] Element Action [click] successfully performed. With the following test data [A]. @30-03-2021 10:29:42.0906 AM
+[ReportManager] Successfully created attachment [Video Recording - test] @30-03-2021 10:29:48.0104 AM
+[ReportManager] Successfully created attachment [Animated Gif - test] @30-03-2021 10:29:48.0112 AM
+
+################################################################################################################################################
+Starting Execution:	[3 out of 3] test cases in the current suite
+Test Method:		[tests.gui.NewTest.comparestats]
+################################################################################################################################################
+[ReportManager] Target URL: [https://playwin.live] @30-03-2021 10:29:48.0123 AM
+[ReportManager] Initial URL: [https://playwin.live/ar/start_quiz/56940] @30-03-2021 10:29:48.0234 AM
+[ReportManager] File Action [createFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20210330-102905", Target File: "\1617092990894_comparestats.gif"]. @30-03-2021 10:29:50.0943 AM
+[ReportManager] Browser Action [navigateToURL] successfully performed. With the following test data [https://playwin.live]. @30-03-2021 10:29:51.0570 AM
+[ReportManager] Successfully created attachment [Video Recording - comparestats] @30-03-2021 10:29:53.0022 AM
+[ReportManager] Successfully created attachment [Animated Gif - comparestats] @30-03-2021 10:29:53.0024 AM
+
+################################################################################################################################################
+Test Closure Activities
+################################################################################################################################################
+[ReportManager] Successfully created attachment [SHAFT Engine Logs - Execution log] @30-03-2021 10:29:54.0146 AM
+
+################################################################################################################################################
+This test run was powered by SHAFT Engine Version: [SHAFT Engine v4.3]
+SHAFT Engine is licensed under the MIT License: [https://github.com/MohabMohie/SHAFT_ENGINE/blob/master/LICENSE].
+################################################################################################################################################

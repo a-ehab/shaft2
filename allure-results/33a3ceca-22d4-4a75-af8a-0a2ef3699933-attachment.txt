@@ -1,0 +1,11 @@
+
+################################################################################################################################################
+Starting Execution:	[3 out of 3] test cases in the current suite
+Test Method:		[tests.gui.NewTest.comparestats]
+################################################################################################################################################
+[ReportManager] Target URL: [https://playwin.live] @30-03-2021 10:29:48.0123 AM
+[ReportManager] Initial URL: [https://playwin.live/ar/start_quiz/56940] @30-03-2021 10:29:48.0234 AM
+[ReportManager] File Action [createFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20210330-102905", Target File: "\1617092990894_comparestats.gif"]. @30-03-2021 10:29:50.0943 AM
+[ReportManager] Browser Action [navigateToURL] successfully performed. With the following test data [https://playwin.live]. @30-03-2021 10:29:51.0570 AM
+[ReportManager] Successfully created attachment [Video Recording - comparestats] @30-03-2021 10:29:53.0022 AM
+[ReportManager] Successfully created attachment [Animated Gif - comparestats] @30-03-2021 10:29:53.0024 AM

@@ -1,0 +1,12 @@
+
+################################################################################################################################################
+Starting Execution:	[1 out of 3] test cases in the current suite
+Test Method:		[tests.gui.NewTest.login1st]
+################################################################################################################################################
+[ReportManager] Element Action [type] successfully performed. With the following test data [t@g.com]. @30-03-2021 10:29:13.0399 AM
+[ReportManager] Element Action [type] successfully performed. With the following test data [test123123]. @30-03-2021 10:29:13.0579 AM
+[ReportManager] File Action [createFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20210330-102905", Target File: "\1617092954215_login1st.gif"]. @30-03-2021 10:29:14.0252 AM
+[ReportManager] Element Action [click] successfully performed. With the following test data [????? ??????]. @30-03-2021 10:29:17.0518 AM
+[ReportManager] Element Action [click] successfully performed. With the following test data [×]. @30-03-2021 10:29:19.0884 AM
+[ReportManager] Successfully created attachment [Video Recording - login1st] @30-03-2021 10:29:22.0124 AM
+[ReportManager] Successfully created attachment [Animated Gif - login1st] @30-03-2021 10:29:22.0127 AM
